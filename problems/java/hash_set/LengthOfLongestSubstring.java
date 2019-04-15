@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * @author BlackSugar
  * @date 2019/4/15
- * iven a string, find the length of the longest substring without repeating characters.
+ * given a string, find the length of the longest substring without repeating characters.
  * <p>
  * Example 1:
  * <p>
@@ -29,10 +29,10 @@ public class LengthOfLongestSubstring {
     /**
      * 思路：
      * 1、最开始使用了双指针双循环迭代，但是时间开销太大，达到O(n^2)
-     * 2、使用了hashset不能添加重复元素的特性，当添加失败的时候，移除set头对象，直到添加成功继续迭代
+     * 2、然后使用了hashset不能添加重复元素的特性，当添加失败的时候，移除set头对象，直到添加成功继续迭代 O(n)
      * Input: "pwwkew"--->[p]--->[pw]--->[w]--->[]--->[w]--->[wk]---[wke]...
      * <p>
-     * 其他大神思路：
+     * 大神思路：
      * 3、可以使用hashmap保存最新的重复元素索引，相对于方法2，减少了重复删除的步骤
      * 4、如果我们知道字符集很小，可以使用ASCII码字符串代替hashmap
      * int[26] for Letters 'a' - 'z' or 'A' - 'Z'
