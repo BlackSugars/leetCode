@@ -3,6 +3,7 @@
 
 #### [Array](problems/java/array)
 - [Two Sum](problems/java/array/TwoSum.java)(easy)
+- [Remove Element](problems/java/array/RemoveElement.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 
 #### [linked_list](problems/java/linked_list)
