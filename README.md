@@ -6,10 +6,8 @@
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 
 #### [linked_list](problems/java/linked_list)
+- [Merge Two Sorted Lists](problems/java/linked_list/MergeTwoSortedLists.java)(easy)
 - [Add Two Numbers](problems/java/linked_list/AddTwoNumbers.java)(medium)
-
-#### [hash_set](problems/java/hash_set)
-- [Longest Substring Without Repeating Characters](problems/java/hash_set/LengthOfLongestSubstring.java)(medium)
 
 #### [math](problems/java/math)
 - [Reverse Integer](problems/java/math/IntegerReverse.java)(easy)
@@ -19,3 +17,4 @@
 #### [String](problems/java/string)
 - [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)
 - [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)
+- [Longest Substring Without Repeating Characters](problems/java/string/LengthOfLongestSubstring.java)(medium)
