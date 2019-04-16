@@ -75,5 +75,6 @@ public class AddTwoNumbers {
             System.out.print(re.val);
             re = re.next;
         }
+        System.out.println();
     }
 }

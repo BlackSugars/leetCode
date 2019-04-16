@@ -11,6 +11,8 @@
 #### [hash_set](problems/java/hash_set)
 - [Longest Substring Without Repeating Characters](problems/java/hash_set/LengthOfLongestSubstring.java)(medium)
 
+#### [math](problems/java/math)
+- [Reverse Integer](problems/java/math/Reverse.java)(easy)
 
 
 
