@@ -15,6 +15,7 @@
 - [Reverse Integer](problems/java/math/IntegerReverse.java)(easy)
 - [Palindrome Number](problems/java/math/PalindromeNumber.java)(easy)
 - [Roman to Integer](problems/java/math/RomanToInteger.java)(easy)
+- [Pow(x, n)](problems/java/math/Pow.java)(medium)
 
 #### [String](problems/java/string)
 - [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)
