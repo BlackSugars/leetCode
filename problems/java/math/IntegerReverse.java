@@ -21,7 +21,7 @@ package math;
  * Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−231,  231 − 1].
  * For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
  */
-public class Reverse {
+public class IntegerReverse {
     /**
      * 翻转int
      * 思路：转为StringBuilder 利用其方法；符号单独处理
@@ -41,6 +41,6 @@ public class Reverse {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Reverse().reverse(123));
+        System.out.println(new IntegerReverse().reverse(123));
     }
 }

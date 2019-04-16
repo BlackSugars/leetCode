@@ -13,6 +13,6 @@
 
 #### [math](problems/java/math)
 - [Reverse Integer](problems/java/math/Reverse.java)(easy)
-
+- [Palindrome Number](problems/java/math/PalindromeNumber.java)(easy)
 
 
