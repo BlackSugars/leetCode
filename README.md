@@ -21,4 +21,5 @@
 - [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)
 - [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)
 - [Count and Say](problems/java/string/CountAndSay.java)(easy)
+- [Implement strStr()](problems/java/string/ImplementIndexOf.java)(easy)
 - [Longest Substring Without Repeating Characters](problems/java/string/LengthOfLongestSubstring.java)(medium)
