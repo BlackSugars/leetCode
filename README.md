@@ -3,6 +3,7 @@
 
 #### [Array](problems/java/array)
 - [Two Sum](problems/java/array/TwoSum.java)(easy)
+- [Longest Common Prefix](problems/java/array/LongestCommonPrefix.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 
 #### [linked_list](problems/java/linked_list)
