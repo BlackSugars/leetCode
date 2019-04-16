@@ -3,7 +3,6 @@
 
 #### [Array](problems/java/array)
 - [Two Sum](problems/java/array/TwoSum.java)(easy)
-- [Longest Common Prefix](problems/java/array/LongestCommonPrefix.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 
 #### [linked_list](problems/java/linked_list)
@@ -13,7 +12,10 @@
 - [Longest Substring Without Repeating Characters](problems/java/hash_set/LengthOfLongestSubstring.java)(medium)
 
 #### [math](problems/java/math)
-- [Reverse Integer](problems/java/math/Reverse.java)(easy)
+- [Reverse Integer](problems/java/math/IntegerReverse.java)(easy)
 - [Palindrome Number](problems/java/math/PalindromeNumber.java)(easy)
 - [Roman to Integer](problems/java/math/RomanToInteger.java)(easy)
 
+#### [String](problems/java/string)
+- [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)
+- [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)
