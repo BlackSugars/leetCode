@@ -23,4 +23,5 @@
 - [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)
 - [Count and Say](problems/java/string/CountAndSay.java)(easy)
 - [Implement strStr()](problems/java/string/ImplementIndexOf.java)(easy)
+- [Length of Last Word](problems/java/string/LengthOfLastWord.java)(easy)
 - [Longest Substring Without Repeating Characters](problems/java/string/LengthOfLongestSubstring.java)(medium)
