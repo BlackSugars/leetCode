@@ -5,6 +5,7 @@
 - [Two Sum](problems/java/array/TwoSum.java)(easy)
 - [Remove Element](problems/java/array/RemoveElement.java)(easy)
 - [Search Insert Position](problems/java/array/SearchInsertPosition.java)(easy)
+- [Maximum Subarray](problems/java/array/MaximumSubarray.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 
 #### [linked_list](problems/java/linked_list)
