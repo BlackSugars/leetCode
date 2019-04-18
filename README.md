@@ -18,6 +18,7 @@
 - [Palindrome Number](problems/java/math/PalindromeNumber.java)(easy)
 - [Roman to Integer](problems/java/math/RomanToInteger.java)(easy)
 - [Add Binary](problems/java/math/AddBinary.java)(easy)
+- [Sqrt(x)](problems/java/math/Sqrt.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
 
 #### [String](problems/java/string)
