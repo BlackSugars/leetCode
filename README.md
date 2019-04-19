@@ -1,5 +1,5 @@
 ## 该项目用来记录本人LeetCode当中遇到的问题以及自己的思路以及相关测试
-![image](image/image.gif)
+![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)
 ---
 #### [Array](problems/java/array)
 - [Two Sum](problems/java/array/TwoSum.java)(easy)
