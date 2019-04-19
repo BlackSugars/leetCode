@@ -9,29 +9,29 @@ package tree;
  * <p>
  * Example 1:
  * Input:     1         1
- * / \       / \
- * 2   3     2   3
- * <p>
- * [1,2,3],   [1,2,3]
- * <p>
+ *           / \       / \
+ *          2   3     2   3
+ *<p>
+ *         [1,2,3],   [1,2,3]
+ *<p>
  * Output: true
  * Example 2:
- * <p>
+ *<p>
  * Input:     1         1
- * /           \
- * 2             2
- * <p>
- * [1,2],     [1,null,2]
- * <p>
+ *           /           \
+ *          2             2
+ *<p>
+ *         [1,2],     [1,null,2]
+ *<p>
  * Output: false
  * Example 3:
- * <p>
+ *<p>
  * Input:     1         1
- * / \       / \
- * 2   1     1   2
- * <p>
- * [1,2,1],   [1,1,2]
- * <p>
+ *           / \       / \
+ *          2   1     1   2
+ *<p>
+ *         [1,2,1],   [1,1,2]
+ *<p>
  * Output: false
  */
 public class SameTree {

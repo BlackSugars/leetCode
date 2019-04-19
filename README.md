@@ -34,3 +34,4 @@
 
 #### [tree](problems/java/tree)
 - [Same Tree](problems/java/tree/SameTree.java)(easy)
+- [Symmetric Tree](problems/java/tree/SymmetricTree.java)(easy)
