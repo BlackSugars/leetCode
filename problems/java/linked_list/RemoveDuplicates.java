@@ -33,14 +33,21 @@ public class RemoveDuplicates {
         if (null == head) {
             return null;
         }
-        while (head.next != null) {
+        /*while (head.next != null) {
             if (head.val != head.next.val) {
                 head = head.next;
             } else {
                 head.next = head.next.next;
             }
         }
-        return re;
+        return re;*/
+
+        if (head.next == null) {
+            return head;
+        }
+        head.next = deleteDuplicates(head.next);
+
+        return head.val == head.next.val ? head.next : head;
     }
 
     public static void main(String[] args) {
