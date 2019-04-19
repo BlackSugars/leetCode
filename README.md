@@ -11,6 +11,7 @@
 
 #### [linked_list](problems/java/linked_list)
 - [Merge Two Sorted Lists](problems/java/linked_list/MergeTwoSortedLists.java)(easy)
+- [Remove Duplicates from Sorted List](problems/java/linked_list/RemoveDuplicates.java)(easy)
 - [Add Two Numbers](problems/java/linked_list/AddTwoNumbers.java)(medium)
 
 #### [math](problems/java/math)
