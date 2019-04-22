@@ -12,18 +12,18 @@ package tree;
  * Example:
  * <p>
  * Given binary tree [3,9,20,null,null,15,7],
- *     3
- *    / \
- *   9  20
- *     /  \
- *    15   7
+ * 3
+ * / \
+ * 9  20
+ * /  \
+ * 15   7
  * return its depth = 3.
  */
 public class MaximumDepthOfBinaryTree {
     /**
      * 获取数深度
-     * 思路：递归，找最大深度
-     * 大神代码：
+     * 思路：递归，找最大深度，或者利用栈、队列迭代，和SymmetricTree差不多的做法，就不写了 :)
+     * 大神递归代码：
      * <p>
      * if (null == root) {
      * return 0;
