@@ -9,6 +9,7 @@
 - [Plus One](problems/java/array/PlusOne.java)(easy)
 - [Merge Sorted Array](problems/java/array/MergeSortedArray.java)(easy)
 - [Pascal's Triangle](problems/java/array/PascalTriangle.java)(easy)
+- [Single Number](problems/java/array/SingleNumber.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 ---
 #### [linked_list](problems/java/linked_list)
