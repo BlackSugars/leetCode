@@ -81,14 +81,37 @@ public class LinkedListCycle {
      * @return
      */
     public boolean hasCycle(ListNode head) {
+        /*Set<ListNode> set = new HashSet<>();
         while (head != null) {
-            if (head.next == head)
+            if (!set.add(head)) {
                 return true;
-            ListNode tmp = head.next;
-            head.next = head;
-            head = tmp;
+            }
+            head = head.next;
+        }
+        return false;*/
+
+        if (null == head) {
+            return false;
+        }
+        ListNode fast = head, slow = head;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if (fast == slow) {
+                return true;
+            }
         }
         return false;
+
+        /*int count = 0;
+        while (head != null) {
+            if (count > 10000) {
+                return true;
+            }
+            count++;
+            head = head.next;
+        }
+        return false;*/
     }
 
     public static void main(String[] args) {
