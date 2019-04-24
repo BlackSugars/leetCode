@@ -12,11 +12,12 @@
 - [Single Number](problems/java/array/SingleNumber.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 ---
-#### [linked_list](problems/java/linked_list)
-- [Merge Two Sorted Lists](problems/java/linked_list/MergeTwoSortedLists.java)(easy)
-- [Remove Duplicates from Sorted List](problems/java/linked_list/RemoveDuplicates.java)(easy)
-- [Add Two Numbers](problems/java/linked_list/AddTwoNumbers.java)(medium)
-- [Sort List](problems/java/linked_list/SortList.java)(medium)
+#### [list](problems/java/list)
+- [Merge Two Sorted Lists](problems/java/list/MergeTwoSortedLists.java)(easy)
+- [Remove Duplicates from Sorted List](problems/java/list/RemoveDuplicates.java)(easy)
+- [Linked List Cycle](problems/java/list/LinkedListCycle.java)(easy)
+- [Add Two Numbers](problems/java/list/AddTwoNumbers.java)(medium)
+- [Sort List](problems/java/list/SortList.java)(medium)
 ---
 #### [math](problems/java/math)
 - [Reverse Integer](problems/java/math/IntegerReverse.java)(easy)

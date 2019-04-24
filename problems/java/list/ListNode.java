@@ -1,4 +1,4 @@
-package linked_list;
+package list;
 
 /**
  * @author BlackSugar
@@ -21,5 +21,15 @@ public class ListNode {
     public ListNode next(int val) {
         this.next = new ListNode(val);
         return this.next;
+    }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
     }
 }

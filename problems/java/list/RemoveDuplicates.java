@@ -1,7 +1,4 @@
-package linked_list;
-
-import java.util.HashSet;
-import java.util.Set;
+package list;
 
 /**
  * @author BlackSugar
