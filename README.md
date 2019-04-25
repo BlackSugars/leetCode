@@ -40,3 +40,7 @@
 - [Same Tree](problems/java/tree/SameTree.java)(easy)
 - [Symmetric Tree](problems/java/tree/SymmetricTree.java)(easy)
 - [Maximum Depth of Binary Tree](problems/java/tree/MaximumDepthOfBinaryTree.java)(easy)
+
+####[stack](problems/java/stack)
+- [Min Stack](problems/java/stack/MinStack.java)(easy)
+
