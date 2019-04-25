@@ -1,4 +1,4 @@
-## 该项目用来记录本人LeetCode当中遇到的问题以及自己的思路以及相关测试
+## This project is used to record the problems encountered in LeetCode, and my own ideas and related tests
 ![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)
 ---
 #### [Array](problems/java/array)
@@ -10,6 +10,7 @@
 - [Merge Sorted Array](problems/java/array/MergeSortedArray.java)(easy)
 - [Pascal's Triangle](problems/java/array/PascalTriangle.java)(easy)
 - [Single Number](problems/java/array/SingleNumber.java)(easy)
+- [Majority Element](problems/java/array/MajorityElement.java)(easy)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 ---
 #### [list](problems/java/list)
