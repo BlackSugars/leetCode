@@ -18,6 +18,7 @@ import java.util.HashMap;
  */
 public class TwoSum {
     /**
+     * 找出相加为目标值的两个数字的索引
      * 思路：
      * 1、双循环迭代
      * 2、将值分为当前值i以及对应所需值target-i，
@@ -29,7 +30,7 @@ public class TwoSum {
      * @return 目标值索引数组
      */
     public int[] twoSum(int[] nums, int target) {
-        //O(nlogn)
+        //O(n^2)
             /*for (int i = 0; i < nums.length - 1; i++) {
                 for (int j = i + 1; j < nums.length; j++) {
                     if (nums[i] + nums[j] == target) {
