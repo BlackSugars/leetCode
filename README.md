@@ -11,6 +11,7 @@
 - [Pascal's Triangle](problems/java/array/PascalTriangle.java)(easy)
 - [Single Number](problems/java/array/SingleNumber.java)(easy)
 - [Majority Element](problems/java/array/MajorityElement.java)(easy)
+- [Rotate Array](problems/java/array/RotateArray.java)(medium)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 ---
 #### [list](problems/java/list)
