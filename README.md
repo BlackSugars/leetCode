@@ -30,6 +30,7 @@
 - [Sqrt(x)](problems/java/math/Sqrt.java)(easy)
 - [Climbing Stairs](problems/java/math/ClimbingStairs.java)(easy)
 - [Excel Sheet Column Title](problems/java/math/ExcelSheetColumnTitle.java)(easy)
+- [Happy Number](problems/java/math/HappyNumber.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
 ---
 #### [String](problems/java/string)
