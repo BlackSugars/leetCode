@@ -26,11 +26,11 @@ public class RemoveDuplicates {
      * @return
      */
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode re = head;
         if (null == head) {
             return null;
         }
-        /*while (head.next != null) {
+        /*ListNode re = head;
+        while (head.next != null) {
             if (head.val != head.next.val) {
                 head = head.next;
             } else {
