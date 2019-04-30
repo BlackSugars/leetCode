@@ -19,6 +19,7 @@
 - [Merge Two Sorted Lists](problems/java/list/MergeTwoSortedLists.java)(easy)
 - [Remove Duplicates from Sorted List](problems/java/list/RemoveDuplicates.java)(easy)
 - [Linked List Cycle](problems/java/list/LinkedListCycle.java)(easy)
+- [Remove Linked List Elements](problems/java/list/RemoveLinkedListElements.java)(easy)
 - [Add Two Numbers](problems/java/list/AddTwoNumbers.java)(medium)
 - [Sort List](problems/java/list/SortList.java)(medium)
 ---
