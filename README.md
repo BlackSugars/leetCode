@@ -36,6 +36,7 @@
 - [Count Primes](problems/java/math/CountPrimes.java)(easy) ps：[Sieve of Eratosthenes](image/Sieve_of_Eratosthenes_animation.gif)
 - [Power of Two](problems/java/math/PowerOfTwo.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
+- [Bitwise AND of Numbers Range](problems/java/math/BitwiseANDOfNumbersRange.java)(medium)
 ---
 #### [String](problems/java/string)
 - [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)
