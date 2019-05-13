@@ -28,6 +28,15 @@ public class BitwiseANDOfNumbersRange {
      *         while (m < n) { n &= n - 1; }
      *         return n;
      *     }
+     *ps:老婆大人英明神武，我们其实可以发现上面这个置零的方法在-3，-5，-6...的时候其实是无效的，从末尾开始置零其实可以减去2^i，所以修改如下
+     * public int rangeBitwiseAnd(int m, int n) {
+     *         int i = 0;
+     *         while (m < n) {
+     *             n &= n - (1 << i);
+     *             i++;
+     *         }
+     *         return n;
+     *     }
      *
      * @param m
      * @param n
@@ -44,12 +53,18 @@ public class BitwiseANDOfNumbersRange {
             }
         }
         return m;*/
-        for (int i = 0; i < 30; i++, m >>= 1, n >>= 1) {
+        /*for (int i = 0; i < 30; i++, m >>= 1, n >>= 1) {
             if (m == n) {
                 return m << i;
             }
         }
-        return 0;
+        return 0;*/
+        int i = 0;
+        while (m < n) {
+            n &= n - (1 << i);
+            i++;
+        }
+        return n;
     }
 
     public static void main(String[] args) {
