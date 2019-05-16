@@ -13,6 +13,7 @@
 - [Majority Element](problems/java/array/MajorityElement.java)(easy)
 - [Rotate Array](problems/java/array/RotateArray.java)(medium)
 - [Maximum Product Subarray](problems/java/array/MaximumProductSubarray.java)(medium)
+- [Kth Largest Element in an Array](problems/java/array/KthLargestElement.java)(medium)
 - [Median of Two Sorted Arrays](problems/java/array/FindMedianSortedArrays.java)(hard)
 ---
 #### [list](problems/java/list)
@@ -32,7 +33,7 @@
 - [Sqrt(x)](problems/java/math/Sqrt.java)(easy)
 - [Climbing Stairs](problems/java/math/ClimbingStairs.java)(easy)
 - [Excel Sheet Column Title](problems/java/math/ExcelSheetColumnTitle.java)(easy)
-- [Happy Number](problems/java/math/HappyNumber.java)(easy)
+- [Happy Number](problems/java/math/HappyNumber.java)(easy)-
 - [Count Primes](problems/java/math/CountPrimes.java)(easy) ps：[Sieve of Eratosthenes](image/Sieve_of_Eratosthenes_animation.gif)
 - [Power of Two](problems/java/math/PowerOfTwo.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
@@ -51,7 +52,7 @@
 - [Same Tree](problems/java/tree/SameTree.java)(easy)
 - [Symmetric Tree](problems/java/tree/SymmetricTree.java)(easy)
 - [Maximum Depth of Binary Tree](problems/java/tree/MaximumDepthOfBinaryTree.java)(easy)
-- [Implement Trie (Prefix Tree)](problems/java/tree/ImplementTrie.java)(medium) ps:[Trie node structure](image/Trie_node_structure.png)
+- [Implement Trie (Prefix Tree)](problems/java/tree/ImplementTrie.java)(medium) ps: [Trie node structure](image/Trie_node_structure.png)
 ---
 #### [stack](problems/java/stack)
 - [Min Stack](problems/java/stack/MinStack.java)(easy)
