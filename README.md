@@ -2,7 +2,7 @@
 ![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)![image](image/image.gif)
 ---
 #### [Array](problems/java/array)
-- [Two Sum](problems/java/array/TwoSum.java)(easy)-
+- [Two Sum](problems/java/array/TwoSum.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89532633)
 - [Remove Element](problems/java/array/RemoveElement.java)(easy)
 - [Search Insert Position](problems/java/array/SearchInsertPosition.java)(easy)
 - [Maximum Subarray](problems/java/array/MaximumSubarray.java)(easy)
@@ -22,29 +22,29 @@
 - [Linked List Cycle](problems/java/list/LinkedListCycle.java)(easy)
 - [Remove Linked List Elements](problems/java/list/RemoveLinkedListElements.java)(easy)
 - [Reverse Linked List](problems/java/list/ReverseLinkedList.java)(easy)
-- [Add Two Numbers](problems/java/list/AddTwoNumbers.java)(medium)-
+- [Add Two Numbers](problems/java/list/AddTwoNumbers.java)(medium)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89886074)
 - [Sort List](problems/java/list/SortList.java)(medium)
 ---
 #### [math](problems/java/math)
 - [Reverse Integer](problems/java/math/IntegerReverse.java)(easy)
 - [Palindrome Number](problems/java/math/PalindromeNumber.java)(easy)
-- [Roman to Integer](problems/java/math/RomanToInteger.java)(easy)-
+- [Roman to Integer](problems/java/math/RomanToInteger.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89676988)
 - [Add Binary](problems/java/math/AddBinary.java)(easy)
 - [Sqrt(x)](problems/java/math/Sqrt.java)(easy)
 - [Climbing Stairs](problems/java/math/ClimbingStairs.java)(easy)
 - [Excel Sheet Column Title](problems/java/math/ExcelSheetColumnTitle.java)(easy)
-- [Happy Number](problems/java/math/HappyNumber.java)(easy)-
+- [Happy Number](problems/java/math/HappyNumber.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/90176462)
 - [Count Primes](problems/java/math/CountPrimes.java)(easy) ps：[Sieve of Eratosthenes](image/Sieve_of_Eratosthenes_animation.gif)
 - [Power of Two](problems/java/math/PowerOfTwo.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
 - [Bitwise AND of Numbers Range](problems/java/math/BitwiseANDOfNumbersRange.java)(medium)
 ---
 #### [String](problems/java/string)
-- [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)-
-- [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)-
-- [Count and Say](problems/java/string/CountAndSay.java)(easy)-
-- [Implement strStr()](problems/java/string/ImplementIndexOf.java)(easy)-
-- [Length of Last Word](problems/java/string/LengthOfLastWord.java)(easy)-
+- [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89603455)
+- [Valid Parentheses](problems/java/string/ValidParentheses.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89711594)
+- [Count and Say](problems/java/string/CountAndSay.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89960612)
+- [Implement strStr()](problems/java/string/ImplementIndexOf.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89849831)
+- [Length of Last Word](problems/java/string/LengthOfLastWord.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89925460)
 - [Isomorphic Strings](problems/java/string/IsomorphicStrings.java)(easy)
 - [Longest Substring Without Repeating Characters](problems/java/string/LengthOfLongestSubstring.java)(medium)
 ---
