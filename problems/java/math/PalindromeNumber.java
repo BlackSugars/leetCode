@@ -26,6 +26,7 @@ package math;
  */
 public class PalindromeNumber {
     /**
+     * 判断是不是回文
      * 思路：由于要求了不转为string，所以先倒序再比较，类似栈操作，%10的余数每次*10+新余数   123%10=3；123/10=12；
      *
      * @param x
