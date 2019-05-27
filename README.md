@@ -36,6 +36,7 @@
 - [Happy Number](problems/java/math/HappyNumber.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/90176462)
 - [Count Primes](problems/java/math/CountPrimes.java)(easy) ps：[Sieve of Eratosthenes](image/Sieve_of_Eratosthenes_animation.gif)
 - [Power of Two](problems/java/math/PowerOfTwo.java)(easy)
+- [First Bad Version](problems/java/math/FirstBadVersion.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
 - [Bitwise AND of Numbers Range](problems/java/math/BitwiseANDOfNumbersRange.java)(medium)
 ---
