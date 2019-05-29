@@ -3,8 +3,8 @@
 ---
 #### [Array](problems/java/array)
 - [Two Sum](problems/java/array/TwoSum.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89532633)
-- [Remove Element](problems/java/array/RemoveElement.java)(easy)
-- [Search Insert Position](problems/java/array/SearchInsertPosition.java)(easy)
+- [Remove Element](problems/java/array/RemoveElement.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/90476842)
+- [Search Insert Position](problems/java/array/SearchInsertPosition.java)(easy)--->[scdn](https://blog.csdn.net/Autumn_bell/article/details/90642526)
 - [Maximum Subarray](problems/java/array/MaximumSubarray.java)(easy)
 - [Plus One](problems/java/array/PlusOne.java)(easy)
 - [Merge Sorted Array](problems/java/array/MergeSortedArray.java)(easy)
@@ -39,6 +39,7 @@
 - [First Bad Version](problems/java/math/FirstBadVersion.java)(easy)
 - [Pow(x, n)](problems/java/math/Pow.java)(medium)
 - [Bitwise AND of Numbers Range](problems/java/math/BitwiseANDOfNumbersRange.java)(medium)
+- [Jump Game](problems/java/math/JumpGame.java)(medium)
 ---
 #### [String](problems/java/string)
 - [Longest Common Prefix](problems/java/string/LongestCommonPrefix.java)(easy)--->[csdn](https://blog.csdn.net/Autumn_bell/article/details/89603455)
